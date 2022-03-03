@@ -1,0 +1,17 @@
+.custom-btn{
+    background-color: rgb(16, 112, 112);
+    border: 3px solid rgb(16, 112, 112);
+    border-radius: 5px;
+}
+.custom-btn:hover{
+    color: white;
+}
+.custom-design{
+    background: url(images/bg-image-2.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.custom-text{
+    color: rgb(95, 230, 230);
+}
