@@ -111,4 +111,8 @@ let displayWeather=(weatherCondition,message,cod)=>{
     
 }
 
+let finger=()=>{
+  alert('error')
+}
+
 
